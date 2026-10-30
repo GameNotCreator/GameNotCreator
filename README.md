@@ -2,7 +2,7 @@
 
 I’m a second-year Computer Science student at EPFL. I build web, desktop and mobile projects, and learn by taking ideas through to working prototypes.
 
-**I’m looking for a software engineering internship in Switzerland or Singapore in July–August 2027.**
+**I’m looking for a software engineering internship in July–August 2027.**
 
 [Portfolio](https://www.thehnh.tech/) · [LinkedIn](https://www.linkedin.com/in/hedi-fourati-816304218/)
 
