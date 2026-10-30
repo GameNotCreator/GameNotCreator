@@ -12,7 +12,7 @@ I’m a second-year Computer Science student at EPFL. I build web, desktop and m
 - [LiliDecoAI](https://github.com/GameNotCreator/lilidecoai) — an experimental web app for visualising decor objects in room scenes. In development.
 - [WeLockIn](https://github.com/welock-in) — focus tools for desktop and mobile, with public backend and website repositories. Several app repositories are private.
 - [START HACK / CamelCase](https://github.com/StartHack-CamelCase/StartCase1) — a team prototype exploring controls for AI-assisted purchases.
-- [LGF Engineering Club](https://github.com/GameNotCreator/club) — the club website and the stories behind Gustave Motors, A-BOT and Bubble Sea. I co-founded and led the club from 2022 to 2025.
+- [LGF Engineering Club](https://github.com/GameNotCreator/engineering-club-website) — the club website and the stories behind Gustave Motors, A-BOT and Bubble Sea. I co-founded and led the club from 2022 to 2025.
 
 My recent web work uses JavaScript, TypeScript, React, Next.js and Node.js. I also work with Java in my studies and explore other tools through individual projects.
 
