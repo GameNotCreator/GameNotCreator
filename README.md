@@ -11,6 +11,7 @@ I’m a second-year Computer Science student at EPFL. I build web, desktop and m
 - [StopMe](https://github.com/GameNotCreator/stopme) — a Windows focus app in C# and WinUI 3, with a Windows service, local storage and a Chromium extension. In development.
 - [LiliDecoAI](https://github.com/GameNotCreator/lilidecoai) — an experimental web app for visualising decor objects in room scenes. In development.
 - [WeLockIn](https://github.com/welock-in) — focus tools for desktop and mobile, with public backend and website repositories. Several app repositories are private.
+  - [Building the university focus leaderboard](articles/welockin-university-ranking.md): aggregation, public privacy boundaries, caching and interface decisions.
 - [START HACK / CamelCase](https://github.com/StartHack-CamelCase/StartCase1) — a team prototype exploring controls for AI-assisted purchases.
 - [LGF Engineering Club](https://github.com/GameNotCreator/engineering-club-website) — the club website and the stories behind Gustave Motors, A-BOT and Bubble Sea. I co-founded and led the club from 2022 to 2025.
 
