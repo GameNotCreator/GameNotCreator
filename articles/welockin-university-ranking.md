@@ -14,7 +14,7 @@ Making that public involved more than sorting some numbers. We had to decide wha
 
 ## What the ranking measures
 
-The first version is all-time. It adds up the focus time recorded by participating users, grouped by the university attached to their profile.
+The first version is all-time. It adds up the focus time recorded by participating users, grouped by the higher-education institution attached to their profile.
 
 For a simple example, three classmates who each record a one-hour session contribute three hours to their university’s total.
 
@@ -46,7 +46,7 @@ This is an initial implementation. As usage grows, maintained aggregates are the
 
 People can refer to the same school by its full name, an acronym, or an older name. We use institution identities and reviewed aliases rather than treating every spelling as a different university.
 
-The catalogue and the leaderboard also serve different purposes. An institution can be available in the selection list without being eligible for this university ranking. French preparatory classes, for example, are in the catalogue but excluded from the current public ranking.
+The ranking includes higher-education student profiles linked to a recognised institution in our catalogue: universities, grandes écoles, institutes and French preparatory classes (CPGE). Secondary-school and work profiles are excluded. An institution’s presence in the catalogue alone does not make every profile attached to it eligible.
 
 The page includes a form to request a missing institution. Requests go into an admin review queue; submitting one does not automatically publish a new school or create another entry for an existing identity.
 
@@ -69,3 +69,5 @@ Would a weekly reset make this more useful for your study group, or would you pr
 ---
 
 *Affiliation: I am one of Welockin’s creators. This article was prepared with AI assistance from our implementation notes and checked against the shipped feature.*
+
+*Update — 13 November 2026: CPGE are now included in the ranking for eligible higher-education student profiles. The earlier version of this article stated that they were excluded.*
